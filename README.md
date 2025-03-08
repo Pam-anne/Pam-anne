@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Pamela!
+🚀 Frontend | Backend | Full Stack Web Developer (Beginner)
 
-<!--
-**Pam-anne/Pam-anne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 About Me
+- 🎓 Learning **HTML, CSS, JavaScript, React, Node.js**
+- 👨‍💻 Currently working on **my portfolio & personal projects**
+- 🔥 Passionate about **responsive design & accessibility**
+- 🌱 Exploring **backend development & databases**
+- 💬 Ask me about **web development & UI/UX**
+- 📫 Reach me at: pamelaabaki@gmail.com
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+**Languages:**  
+![HTML]
+![CSS]
+![JavaScript]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frameworks & Libraries:**  
+![React]
+![Node.js]
+
+**Tools & Platforms:**  
+![GitHub]
+![VS Code]
+
+## 📌 Projects
+🌟 **[Portfolio Website]**   
+💡 **More projects coming soon...**
+
+
+
