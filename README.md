@@ -13,6 +13,7 @@
 **Languages:**  
 ![HTML]
 ![CSS]
+![PHP]
 ![JavaScript]
 
 **Frameworks & Libraries:**  
