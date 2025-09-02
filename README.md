@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Pamela!
-🚀 Frontend | Backend | Full Stack Web Developer (Beginner)
+🚀 Frontend | Backend | Full Stack Web Developer 
 
 ## 💡 About Me
 - 🎓 Learning **HTML, CSS, JavaScript, React, Node.js**
