@@ -17,6 +17,7 @@
 ![JavaScript]
 
 **Frameworks & Libraries:**  
+![Laravel].
 ![React]
 ![Node.js]
 
