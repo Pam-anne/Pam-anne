@@ -2,8 +2,7 @@
 🚀 Frontend | Backend | Full Stack Web Developer 
 
 ## 💡 About Me
-- 🎓 Learning **HTML, CSS, JavaScript, React, Node.js**
-- 👨‍💻 Currently working on **my portfolio & personal projects**
+- 🎓 Learning **HTML, CSS, JavaScript, React, Node.js,Java**
 - 🔥 Passionate about **responsive design & accessibility**
 - 🌱 Exploring **backend development & databases**
 - 💬 Ask me about **web development & UI/UX**
@@ -15,6 +14,7 @@
 ![CSS]
 ![PHP]
 ![JavaScript]
+![Java]
 
 **Frameworks & Libraries:**  
 ![Laravel].
@@ -27,6 +27,7 @@
 
 ## 📌 Projects
 🌟 **https://pamportfolio.netlify.app/**   
+🌟 **https://qonsistic.com/** 
 💡 **More projects coming soon...**
 
 
