@@ -32,7 +32,7 @@
 🌟 **https://qonsistic.com/** 
 💡 **More projects coming soon...**
 
-![Pam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pam-anne&show_icons=true&theme=radical)
+![Pam's GitHub stats](https://github-readme-stats.vercel.app/api?username=pam-anne&show_icons=true&theme=radical)
 
 
 
